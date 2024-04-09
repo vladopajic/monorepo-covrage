@@ -1,0 +1,4 @@
+profile: cover.proja
+local-prefix: "github.com/vladopajic/monorepo-covrage/proja"
+threshold:
+  total: 45
